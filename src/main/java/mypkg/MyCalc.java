@@ -21,6 +21,7 @@ public class MyCalc {
 		System.out.println("sum is"+ob.sum(10, 20));
 		System.out.println("sum is"+ob.diff(10, 20));
 		System.out.println("sum is"+ob.mul(10, 20));
+		System.out.println("sum is"+ob.div(10, 20));
 
 	}
 
